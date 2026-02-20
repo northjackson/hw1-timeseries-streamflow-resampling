@@ -10,14 +10,14 @@ The workflow is fully reproducible using Python, Pandas, and Matplotlib within a
 
 ## Study Sites
 
-| Station ID | Description |
-|---|---|
-| 09180000 | Regulated Tributary |
-| 09180500 | Reservoir-Regulated (Colorado River near Cisco) |
-| 09183600 | Headwater Catchment (Mill Creek below Sheley Tunnel near Moab) |
-| 09185600 | Downstream Mainstem |
+| Station ID | Name | Role |
+|---|---|---|
+| 09180000 | Dolores River Near Cisco, UT | Regulated Tributary |
+| 09180500 | Colorado River Near Cisco, UT | Reservoir-Regulated |
+| 09183600 | Mill Creek Below Sheley Tunnel, Near Moab, UT | Headwater Catchment |
+| 09185600 | Colorado River at Potash, UT | Downstream Mainstem |
 
-For comparative analysis, **USGS 09180500** serves as the reservoir-regulated reference site and **USGS 09183600** as the headwater catchment.
+For comparative analysis, **USGS 09180500** (Colorado River Near Cisco) serves as the reservoir-regulated reference site and **USGS 09183600** (Mill Creek Below Sheley Tunnel) as the headwater catchment.
 
 ---
 
